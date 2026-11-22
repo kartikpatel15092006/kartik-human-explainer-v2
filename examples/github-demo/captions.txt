@@ -1,0 +1,27 @@
+Socho code likha aur laptop crash ho gaya
+poora kaam gayab
+yehi problem GitHub solve karta hai
+100 million developers use karte hain
+simple bhasha mein samjhata hoon
+Git aur GitHub same nahi hai
+Git har change ka record rakhta hai
+GitHub wahi projects cloud pe host karta hai
+matlab Git tool GitHub uska ghar
+project folder ko repository bolte hain
+files bhi poora history bhi
+changes save karna matlab commit
+har commit ki unique ID
+ye tumhari time machine hai
+kabhi bhi wapas jao
+naya feature banaya to branch lo
+branch main se alag copy hai
+main line safe rahegi
+kaam poora to pull request kholo
+team review karke merge kar degi
+bugs ke liye issues banao
+Actions tests builds chalata hai
+ye sab free milta hai
+sirf developers nahi students researchers bhi
+follow karo aur seekhte raho
+comment karo GIT aur follow karo
+aage ka saaman main hi doonga

@@ -1,0 +1,1 @@
+Sounds: Kenney 'Interface Sounds' pack - https://kenney.nl/assets/interface-sounds - License: Creative Commons CC0 1.0 (public domain, free for any use, no attribution required). Files: crash=error_006, gone=minimize_002, success=confirmation_002, reward=confirmation_004, notify=select_004, pill=glass_001
